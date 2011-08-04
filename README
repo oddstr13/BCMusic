@@ -1,0 +1,21 @@
+BCMusic - a Bukkit plugin
+Play music in Minecraft SMP
+
+
+
+Compile requirements:
+  Permissions:
+    http://forums.bukkit.org/threads/5974/
+  Bukkit:
+    http://ci.bukkit.org/job/dev-Bukkit/Recommended/
+  Spout:
+    http://forums.bukkit.org/threads/29259/
+
+Changelog:
+  Version 2.1:
+    20110805 Updated for Spout
+  Version 2.0:
+    Added jukeboxes
+  Version 1.0:
+    Official Release
+

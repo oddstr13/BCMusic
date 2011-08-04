@@ -1,0 +1,9 @@
+name: BCMusic
+main: me.ic3d.bcm.BCM
+version: 2.1
+author: IC3D
+depend: [Spout]
+commands:
+  bcm:
+    Description: Do BCMusic stuff
+    Usage: /bcm stuff stuff
